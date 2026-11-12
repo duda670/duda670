@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=8B5CF6&height=160&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&desc=Engenharia%20de%20Software%20%C2%B7%20UDF&descSize=16&descAlignY=70" alt="Maria Eduarda" width="100%" />
+<img src="./banner.svg" alt="Maria Eduarda Simoes Silva - Engenharia de Software" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&height=36&lines=Estudante+de+Engenharia+de+Software;Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o;Em+busca+do+primeiro+est%C3%A1gio" alt="Typing animation" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-8B5CF6?style=flat-square&labelColor=1F2937" alt="Brasília" />
-  <img src="https://img.shields.io/badge/Python-Em%20aprendizado-8B5CF6?style=flat-square&labelColor=1F2937&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Buscando-est%C3%A1gio%20em%20TI-8B5CF6?style=flat-square&labelColor=1F2937" alt="Buscando estágio" />
-</p>
+<a href="https://github.com/mariaeduarda-simoes"><img src="https://img.shields.io/badge/GITHUB-mariaeduarda--simoes-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/maria-eduarda-simoes-silva-4b2117323"><img src="https://img.shields.io/badge/LINKEDIN-maria--eduarda--simoes--silva-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="LinkedIn" /></a>
+<a href="mailto:mariaeduarda.dev01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mariaeduarda.dev01@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" alt="E-mail" /></a>
 
 </div>
-
-<hr/>
 
 <h2>💜 Sobre mim</h2>
 
